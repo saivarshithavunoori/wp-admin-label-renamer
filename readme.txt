@@ -1,5 +1,5 @@
 === WP Admin Label Renamer ===
-Contributors: saivarshithavunoori
+Contributors: saivarshith
 Tags: admin, labels, dashboard, rename, ui
 Requires at least: 5.0
 Tested up to: 6.4
